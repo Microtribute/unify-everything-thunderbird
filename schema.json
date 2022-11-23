@@ -1,0 +1,22 @@
+[
+  {
+    "namespace": "microtribute",
+    "functions": [
+      {
+        "name": "hideAccounts",
+        "type": "function",
+        "async": true,
+        "parameters": [
+          {
+            "name": "windowId",
+            "type": "integer"
+          },
+          {
+            "name": "enforceRebuild",
+            "type": "boolean"
+          }
+        ]
+      }
+    ]
+  }
+]
