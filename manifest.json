@@ -7,8 +7,7 @@
   "applications": {
     "gecko": {
       "id": "microtribute@pm.me",
-      "strict_min_version": "102.5.0",
-      "strict_max_version": "102.5.0"
+      "strict_min_version": "102.5.0"
     }
   },
   "experiment_apis": {
